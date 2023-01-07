@@ -2,8 +2,6 @@
 <h1 align="center">Olá👋, me chamo Jabes</h1>
 <h2 align="center">Desenvolvedor</h2>
 
-- 🌱 No momento estudo sobre **Docker e Azure**
-
 - 💬 pergunte me sobre **desenvolvimento web**
 
 <h3 align="left">Conecte-se comigo, será um prazer acompanhar você.</h3>
