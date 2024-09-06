@@ -3,6 +3,7 @@
 <h2 align="center">Full Stack developer</h2>
 
 - 💬 pergunte me sobre **desenvolvimento web**
+- 💬 para saber mais sobre mim, visite meu site **a href="https://jabesreis.com/" target="_blank" rel="noreferrer">jabesreis.com</a>**
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
