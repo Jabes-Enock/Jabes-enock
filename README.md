@@ -2,7 +2,19 @@
 <h1 align="center">Olá👋, me chamo Jabes</h1>
 <h4 align="center">Full Stack developer</h4>
 
+<p>      &nbsp; &nbsp;  Nos últimos anos tenho explorado esse mundo do desenvolvimento construindo aplicativos e sites, acredito que por meio dos códigos podemos melhorar a vida das pessoas, tanto no trabalho, construindo uma aplicação que melhore algum processo dentro da empresa ou criando um aplicativo para sua mãe inserir as receitas favoritas dela que estão anotados em um livrinho que tem mais de 10 anos e cuja as paginas já estão amareladas.</p>
+
+<p>Sim, você pode ajudar alguém.</p>
+
+
+:bookmark_tabs:
+> <h2>Para mim a programação é como uma arte, onde eu sou o pintor e o pincel são as milhares linhas de código que escrevo.</h2>
+<br>
+          
 - 💬 pergunte me sobre **desenvolvimento web**
+- 💬 pergunte me sobre **construção de aplicativos com Cordova**
+
+  <br><br>
 
 <!--- devicon ---!>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
