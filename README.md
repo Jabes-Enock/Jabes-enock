@@ -3,7 +3,7 @@
 <h4 align="center">Full Stack developer</h4>
 
 - 💬 pergunte me sobre **desenvolvimento web**
-
+//devicon
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 
